@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>led-red.svg</file>
+    <file>led-green.svg</file>
+    <file>device-640x480.png</file>
+    <file>qt-logo32x32.png</file>
+  </qresource>
+</RCC>

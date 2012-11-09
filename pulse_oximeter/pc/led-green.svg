@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg2"
+   xml:space="preserve">
+<defs
+   id="defs4"><linearGradient
+     id="linearGradient2647"><stop
+       id="stop2649"
+       style="stop-color:#ffffff;stop-opacity:1"
+       offset="0" /><stop
+       id="stop2651"
+       style="stop-color:#ffffff;stop-opacity:0"
+       offset="1" /></linearGradient><linearGradient
+     x1="8.2610445"
+     y1="3.2690763"
+     x2="10.86747"
+     y2="10.432223"
+     id="linearGradient2653"
+     xlink:href="#linearGradient2647"
+     gradientUnits="userSpaceOnUse" /></defs>
+<linearGradient
+   x1="10.9995"
+   y1="0"
+   x2="10.9995"
+   y2="22.0005"
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   id="stop240"
+   style="stop-color:#000000;stop-opacity:1"
+   offset="0" />
+	<stop
+   id="stop242"
+   style="stop-color:#242b27;stop-opacity:1"
+   offset="0.1875" />
+	<stop
+   id="stop244"
+   style="stop-color:#7c9688;stop-opacity:1"
+   offset="0.60689998" />
+	<stop
+   id="stop246"
+   style="stop-color:#d4ffe7;stop-opacity:1"
+   offset="1" />
+</linearGradient>
+<circle
+   cx="11"
+   cy="11"
+   r="11"
+   id="circle248"
+   style="fill:url(#SVGID_1_)" />
+<g
+   id="g250">
+	
+		<radialGradient
+   cx="-28.169399"
+   cy="-3.6522999"
+   r="9.8999004"
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9091,0,0,0.9091,36.6089,14.3206)">
+		<stop
+   id="stop253"
+   style="stop-color:#e1ff00;stop-opacity:1"
+   offset="0" />
+		<stop
+   id="stop255"
+   style="stop-color:#dbf900;stop-opacity:1"
+   offset="0.1278" />
+		<stop
+   id="stop257"
+   style="stop-color:#c9ea01;stop-opacity:1"
+   offset="0.30469999" />
+		<stop
+   id="stop259"
+   style="stop-color:#abd003;stop-opacity:1"
+   offset="0.51050001" />
+		<stop
+   id="stop261"
+   style="stop-color:#82ac05;stop-opacity:1"
+   offset="0.73790002" />
+		<stop
+   id="stop263"
+   style="stop-color:#4f7e08;stop-opacity:1"
+   offset="0.98049998" />
+		<stop
+   id="stop265"
+   style="stop-color:#4a7a08;stop-opacity:1"
+   offset="1" />
+	</radialGradient>
+	<circle
+   cx="11"
+   cy="11"
+   r="9"
+   id="circle267"
+   style="fill:url(#SVGID_2_)" />
+</g>
+<path
+   d="M 14.89,5.149 C 15.471,7.008 13.707,9.22 10.936,10.084 C 8.174,10.948 5.456,10.15 4.875,8.29 C 4.293,6.43 6.064,4.218 8.828,3.347 C 11.598,2.482 14.309,3.289 14.89,5.149 z"
+   id="path269"
+   style="opacity:0.8;fill:url(#linearGradient2653);fill-opacity:1" />
+</svg>
