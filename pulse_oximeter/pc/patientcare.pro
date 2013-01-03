@@ -1,8 +1,8 @@
 TEMPLATE = app
 INCLUDEPATH += .
 
-include(../../src/common/common.pri)
-include(../../src/basicgraph/basicgraph.pri)
+include(./embedded-widgets-1.1.0/src/common/common.pri)
+include(./embedded-widgets-1.1.0/src/basicgraph/basicgraph.pri)
 
 CONFIG += release
 CONFIG -= debug
