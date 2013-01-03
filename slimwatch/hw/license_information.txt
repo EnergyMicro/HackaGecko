@@ -1,0 +1,61 @@
+The software and hardware design within this application note is released under BSD license. 
+
+/**************************************************************************//**
+ * @files PCB_files
+ * @brief Slimwatch, really thin watch application PCB
+ * @author Energy Micro AS
+ * @version 1.00
+ ******************************************************************************
+ * @section License
+ ******************************************************************************
+ *
+ * Some of the component footprints are from the Sparkfun Eagle library, subject to 
+ * CC v3.0 Share-Alike (http://creativecommons.org/licenses/by-sa/3.0/) license,
+ * stating: You are welcome to use this library for commercial purposes. 
+ * For attribution, we ask that when you begin to sell your device using our 
+ * footprint, you email us with a link to the product being sold. 
+ * We want bragging rights that we helped (in a very small part) to 
+ * create your 8th world wonder. We would like the opportunity to feature your 
+ * device on our homepage.
+ * 
+ * BSD license
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 
+ * - Redistributions of source code must retain the above copyright
+ *  notice, this list of conditions and the following disclaimer.
+ * - Redistributions in binary form must reproduce the above copyright
+ *  notice, this list of conditions and the following disclaimer in the
+ *  documentation and/or other materials provided with the
+ *  distribution.
+ * - Neither the name of the copyright holder nor the names of
+ *  its contributors may be used to endorse or promote products derived
+ *  from this software without specific prior written permission.
+ * 
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ * FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
+ * THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+ * INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+
+/**
+ DISCLAIMER OF WARRANTY/LIMITATION OF REMEDIES: Energy Micro AS has no
+ obligation to support this Software. Energy Micro AS is providing the
+ Software "AS IS", with no express or implied warranties of any kind,
+ including, but not limited to, any implied warranties of merchantability
+ or fitness for any particular purpose or warranties against infringement
+ of any proprietary rights of a third party.
+ 
+ Energy Micro AS will not be liable for any consequential, incidental, or
+ special damages, or any other relief, or for any claim by any third party,
+ arising from your use of this Software.
+ *****************************************************************************/
